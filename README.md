@@ -20,6 +20,6 @@ Make sure you have Python 3.8+ installed. Then run:
 
 pip install -r requirements.txt
 
-## 1. Run the main code
+## 4. Run the main code
 
 streamlit run main.py
