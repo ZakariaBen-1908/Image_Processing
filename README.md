@@ -4,9 +4,9 @@
 
 ## 1. Clone the repository
 
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/ZakariaBen-1908/Image_Processing.git
 
-cd your-repo-name
+cd Image_Processing
 
 ## 2. Set up a virtual environment (optional but recommended)
 
